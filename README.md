@@ -1,6 +1,7 @@
 ScreenShoot hasil
 
-![Capture](https://user-images.githubusercontent.com/102182778/163821082-769e6770-9959-4ff3-bdd8-8fd1cda40230.PNG)
+![2](https://user-images.githubusercontent.com/102182778/163917174-efe5898a-44f2-4680-9862-c1d9d416797b.PNG)
+
 
 # gridview
 
